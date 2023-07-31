@@ -1,14 +1,15 @@
 ### Hi there 👋, I'm XXIVK!
+I'm XXIVK, a passionate coder with a strong focus on Python and a deep interest in Machine Learning (ML). I love to explore advanced AI techniques and data engineering, and I'm particularly fond of using Ludwig and Ray for my ML projects.
 
-#### About Me
+Currently, I'm a proud member of the CTO team at Antbit.io, where I contribute to exciting projects related to Trading Systems and Python AI.
 
-- 🔭 I’m currently working on Trading Systems, AI, and ML projects.
-- 🌱 I’m always learning and exploring advanced AI techniques and data engineering.
-- 👯 I’m looking to collaborate on open-source AI/ML projects.
-- 💬 Ask me about Python, AI, ML, or anything related to technology.
-- 📫 How to reach me: [Email](mailto:saad@wborsa.com), [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/saad-mohammed-343989159/)),
-- 😄 Pronouns: He/Him
+Feel free to ask me anything about Python, AI, ML, or any technology-related topics. I'm always eager to collaborate on open-source AI/ML projects.
 
+Pronouns: He/Him
+
+Contact: saad@antbit.io
+
+Let's connect and work together to create amazing things in the world of AI and ML! 😄
 #### My GitHub Stats
 
 ![XXIVK's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxivk&show_icons=true&count_private=true&hide=prs&theme=radical)

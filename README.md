@@ -7,7 +7,7 @@ Feel free to ask me anything about Python, AI, ML, or any technology-related top
 
 Pronouns: He/Him
 
-Contact: saad.alenezi@io.net
+Contact: saad@io.net
 
 Let's connect and work together to create amazing things in the world of AI and ML! 😄
 #### My GitHub Stats
